@@ -1,7 +1,0 @@
-0. Open File Explorer, click on the "View" tab, and check the box "Hidden items"
-1. Put ad.py and ad.bat in C:\Users\[username]
-2. Put Spotify Helper.lnk in C:\Users\[username]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-3. Install pip from online
-4. Open cmd and type "pip install pyautogui" and "pip install pygetwindow"
-5. Spotify Helper will start up when your computer turns on from now on and be minimized in the taskbar; close it if you want it to stop
-6. ad_detector.py is just for testing, it doesn't do anything
